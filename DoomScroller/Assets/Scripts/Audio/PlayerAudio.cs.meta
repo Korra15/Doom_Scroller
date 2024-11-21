@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 09f5dac4418de430c883552660c34396
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audio: {instanceID: 0}
+  - dash: {fileID: 8300000, guid: 5ac6c19a4aaf14eee8bce5a9c2c17d5a, type: 3}
+  - glide: {fileID: 8300000, guid: 875d0d0dcb205431195810e045793045, type: 3}
+  - glideStart: {fileID: 8300000, guid: e17f12f6bd79140b2a59b89ce0a2875a, type: 3}
+  - crouchJump: {fileID: 8300000, guid: d4780a09d94b741849c7d1ca25e1798c, type: 3}
+  - jump: {fileID: 8300000, guid: 8e38385b0afbf41a3bee18dba83c8499, type: 3}
+  - footsteps: {fileID: 8300000, guid: c8f659358ad0e4a56a2fe324fcda7120, type: 3}
+  - walking: {instanceID: 0}
+  - jogging: {fileID: 8300000, guid: 5c2f4799c86e040969eb80c983e93c3d, type: 3}
+  - running: {fileID: 8300000, guid: 4a546ae644f9d45d6a7f0e3f232ec3de, type: 3}
+  - unblockableWarning: {instanceID: 0}
+  - shieldHit: {fileID: 8300000, guid: cbb97a656a7444b6187beaaad2e7f777, type: 3}
+  - guardHold: {fileID: 8300000, guid: ff31ce3d61cb34ff3ace360273527c12, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

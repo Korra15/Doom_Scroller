@@ -1,0 +1,66 @@
+{
+    "name": "GameControls",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "83921f94-efb1-4c6f-b98e-797c2edad3a2",
+            "actions": [
+                {
+                    "name": "InstructionUIOpenClose",
+                    "type": "Button",
+                    "id": "a308e7aa-4574-403e-9cc7-1eea8691a127",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "test",
+                    "type": "Button",
+                    "id": "4b931969-4c00-484f-9206-0abfd06d2858",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "04adb632-6dd6-4324-9cd9-b569ba0738a7",
+                    "path": "<Keyboard>/i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "InstructionUIOpenClose",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6fb349ea-08db-4ad7-b9e4-04788e3f7ab4",
+                    "path": "<Keyboard>/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "test",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": true,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

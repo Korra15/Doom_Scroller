@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c77e0e5c-3c47-41fa-9850-0db253c57a82}">
+		<property name="assetPath">
+			<value>Ambience/FlowingGrass(reverb).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>73.896000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8985d9d-35c7-4f16-9b0c-ac1efbdb9357}</destination>
+		</relationship>
+	</object>
+</objects>

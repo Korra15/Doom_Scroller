@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{390ff8c2-83d7-4b14-b60e-6b26f12abebe}">
+		<property name="assetPath">
+			<value>SFX/Player/Movement/Crouch_Jump.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3825396825396825</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8985d9d-35c7-4f16-9b0c-ac1efbdb9357}</destination>
+		</relationship>
+	</object>
+</objects>

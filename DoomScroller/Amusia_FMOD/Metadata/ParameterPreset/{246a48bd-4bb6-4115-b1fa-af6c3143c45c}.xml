@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{246a48bd-4bb6-4115-b1fa-af6c3143c45c}">
+		<property name="name">
+			<value>rainFadeInDuration</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e28deec0-511c-46a6-a3a8-fcfadc7beb15}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{79015e3f-6ed3-4499-92c7-70445c88203f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{79015e3f-6ed3-4499-92c7-70445c88203f}">
+		<property name="maximum">
+			<value>30</value>
+		</property>
+		<property name="initialValue">
+			<value>4</value>
+		</property>
+	</object>
+</objects>

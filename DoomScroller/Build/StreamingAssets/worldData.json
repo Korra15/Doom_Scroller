@@ -1,0 +1,75 @@
+{
+    "worlds": [
+      {
+        "id": "world_001",
+        "worldName": "Verdant Plains",
+        "worldLore": "Endless fields of green under a perpetual midday sun, teeming with life.",
+        "spriteName": "Worlds",
+        "unlocked": true
+      },
+      {
+        "id": "world_002",
+        "worldName": "Frozen Wastes",
+        "worldLore": "A barren, icy landscape where silence rules under the northern lights.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_003",
+        "worldName": "Mystic Forest",
+        "worldLore": "An ancient forest shrouded in mystery and home to mythical creatures.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_004",
+        "worldName": "Crystalline Caves",
+        "worldLore": "Radiant crystals illuminate these caves, creating a dazzling display of colors.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_005",
+        "worldName": "Drowned City",
+        "worldLore": "Ruins of a once-thriving city now submerged beneath tranquil waters.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_006",
+        "worldName": "Desert of Echoes",
+        "worldLore": "A vast desert where the wind whispers ancient secrets among the sands.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_007",
+        "worldName": "Sky Islands",
+        "worldLore": "Floating islands drifting in the sky, reachable only by those who dare to fly.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_008",
+        "worldName": "Volcanic Peaks",
+        "worldLore": "Towering volcanoes that forge both destruction and new lands with their fiery might.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_009",
+        "worldName": "Twilight Realm",
+        "worldLore": "A dimension existing between day and night, where time flows unpredictably.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      },
+      {
+        "id": "world_010",
+        "worldName": "Forgotten Ruins",
+        "worldLore": "Ancient ruins holding lost knowledge and untold stories, hidden from the eyes of the modern world.",
+        "spriteName": "Worlds",
+        "unlocked": false
+      }
+    ]
+  }
+  

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Enemy
+  - Melee
+  - Parry
+  - Parryable
+  - HitBox
+  - Unparryable
+  - EnergyAttack
+  - Grass
+  - Bird
+  - Transition
+  - IntroTrigger
+  - TESTSLIMETAG
+  - bouncyGround
+  - Grabbable
+  - ChunkExit
+  - ChunkEntry
+  - Doom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Dashable
+  - Enemy
+  - Player
+  - Parryable
+  - Projectile
+  - Shield
+  - Hurtbox
+  - Hitbox
+  - Grabbable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4205397375
+    locked: 0
+  - name: Ground
+    uniqueID: 1585949513
+    locked: 0
+  - name: Foreground
+    uniqueID: 1057891015
+    locked: 0
+  - name: Text notes
+    uniqueID: 1566205111
+    locked: 0

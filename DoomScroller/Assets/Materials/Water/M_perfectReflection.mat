@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6359423613070275321
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_perfectReflection
+  m_Shader: {fileID: -6465566751694194690, guid: f60294761bee24affb8bf7cf0868a3a0, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_c3aab79aafec4a37a8afcc59158c33a6_Out_0_Texture2D:
+        m_Texture: {fileID: 8400000, guid: bc70b33f99a8446e78fb2351670d3b39, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _renderTexture:
+        m_Texture: {fileID: 8400000, guid: bc70b33f99a8446e78fb2351670d3b39, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _spriteTexture:
+        m_Texture: {fileID: 2800000, guid: 9719836757b66414390a5ff6bdae83fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _EnableExternalAlpha: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _cameraSize: 15
+    - _globalScaleCorrection: 1
+    - _influence: 0.5
+    - _limit: 0.58
+    - _noiseDepthDamper: 0.6
+    - _noiseScale: 50
+    - _reflectionCameraSize: 3
+    - _reflectionLerpT: 0.5
+    - _reflectionLimit: 0.55
+    - _reflectionOpacity: 0.54
+    - _refractionIntensity: 0.005
+    - _scaleCorrection: 5
+    - _specularOpacity: 1
+    - _specularOpacityOffset: 0.21
+    - _specularThresholdOffset: 0.07
+    - _testMultiplier: 5
+    - _timeScalar: 0.25
+    - _zoom: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Vector3: {r: 0, g: 0, b: 0, a: 0}
+    - _cameraSizeVec2: {r: 1, g: 1, b: 0, a: 0}
+    - _customOffset: {r: 0.555, g: -1.22, b: 0, a: 0}
+    - _customScale: {r: 1, g: 1, b: 0, a: 0}
+    - _globalOffsetCorrection: {r: 0.08, g: -0.03, b: 0, a: 0}
+    - _noiseHorizon_addMultiply: {r: -0.85, g: 7.91, b: 0, a: 0}
+    - _noiseTiling: {r: 1.09, g: 8.51, b: 0, a: 0}
+    - _offsetCorrection: {r: -0.49, g: 0.18, b: 0, a: 0}
+    - _reflectionCameraPosition: {r: 2.81, g: -4.33, b: 0, a: 0}
+    - _reflectionOffset: {r: 0.01, g: 0.11, b: 0, a: 0}
+    - _specularColor: {r: 4, g: 3.917508, b: 1.90566, a: 0}
+    - _turbulence_speedScaleForce: {r: 0, g: 20, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

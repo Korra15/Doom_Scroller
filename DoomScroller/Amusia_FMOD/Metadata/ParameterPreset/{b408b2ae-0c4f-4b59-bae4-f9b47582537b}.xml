@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b408b2ae-0c4f-4b59-bae4-f9b47582537b}">
+		<property name="name">
+			<value>volume_WindAndBrass</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e28deec0-511c-46a6-a3a8-fcfadc7beb15}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c24c7e57-3af6-451a-98d5-0fe0caf94adb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c24c7e57-3af6-451a-98d5-0fe0caf94adb}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.44999998807907104</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

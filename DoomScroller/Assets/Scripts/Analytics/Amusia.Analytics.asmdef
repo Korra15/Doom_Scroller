@@ -1,0 +1,19 @@
+{
+    "name": "Amusia.Analytics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fe25561d224ed4743af4c60938a59d0b",
+        "GUID:5e0b455853cd340e0813387221dfd501",
+        "GUID:1104de264d522446f8274872ebf70b3d",
+        "GUID:ee0445e43d9414b39a3051ae10af9618"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

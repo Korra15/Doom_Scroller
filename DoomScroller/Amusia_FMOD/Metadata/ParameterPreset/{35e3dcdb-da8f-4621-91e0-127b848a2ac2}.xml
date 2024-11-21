@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{35e3dcdb-da8f-4621-91e0-127b848a2ac2}">
+		<property name="name">
+			<value>musicFadeIn</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e28deec0-511c-46a6-a3a8-fcfadc7beb15}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{87fbdd00-c84a-4df3-b6c4-b312b075add0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{87fbdd00-c84a-4df3-b6c4-b312b075add0}">
+		<property name="maximum">
+			<value>50</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

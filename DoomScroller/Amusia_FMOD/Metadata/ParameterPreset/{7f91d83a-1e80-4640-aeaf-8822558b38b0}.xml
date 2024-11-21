@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7f91d83a-1e80-4640-aeaf-8822558b38b0}">
+		<property name="name">
+			<value>volume_Harp</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e28deec0-511c-46a6-a3a8-fcfadc7beb15}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{db022a9d-b7e8-463e-81fa-71bb53804960}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{db022a9d-b7e8-463e-81fa-71bb53804960}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.44999998807907104</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

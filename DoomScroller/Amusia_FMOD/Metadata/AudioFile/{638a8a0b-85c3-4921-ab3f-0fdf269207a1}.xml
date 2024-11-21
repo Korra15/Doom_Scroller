@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{638a8a0b-85c3-4921-ab3f-0fdf269207a1}">
+		<property name="assetPath">
+			<value>Ambience/radio static White Noise - Jeremy Hahn.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>59.008000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8985d9d-35c7-4f16-9b0c-ac1efbdb9357}</destination>
+		</relationship>
+	</object>
+</objects>

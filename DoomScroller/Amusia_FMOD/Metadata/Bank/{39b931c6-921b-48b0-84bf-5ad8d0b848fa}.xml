@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{39b931c6-921b-48b0-84bf-5ad8d0b848fa}">
+		<property name="name">
+			<value>BubbleArea</value>
+		</property>
+		<relationship name="folder">
+			<destination>{de98b13b-3842-40fa-a237-4fe10951cfaf}</destination>
+		</relationship>
+	</object>
+</objects>

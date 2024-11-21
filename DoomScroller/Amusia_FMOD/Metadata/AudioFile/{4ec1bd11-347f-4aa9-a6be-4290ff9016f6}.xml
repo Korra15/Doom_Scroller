@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4ec1bd11-347f-4aa9-a6be-4290ff9016f6}">
+		<property name="assetPath">
+			<value>Music/Castle/ChopinNocturneOp27No1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>352.76668934240365</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8985d9d-35c7-4f16-9b0c-ac1efbdb9357}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,478 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1060994482476660244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8477556252158011075}
+  - component: {fileID: 648316309234078754}
+  - component: {fileID: 6250969650539573485}
+  - component: {fileID: 4676064791763331165}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &8477556252158011075
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060994482476660244}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 68448258784291927}
+  m_Father: {fileID: 2232528035312895807}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!223 &648316309234078754
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060994482476660244}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!114 &6250969650539573485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060994482476660244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!114 &4676064791763331165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1060994482476660244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!1 &1327419761192305733
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 68448258784291927}
+  - component: {fileID: 7780834468961657647}
+  - component: {fileID: 834051744616171221}
+  m_Layer: 5
+  m_Name: SongName
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &68448258784291927
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327419761192305733}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8477556252158011075}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 82, y: 0}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0, y: 0}
+--- !u!222 &7780834468961657647
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327419761192305733}
+  m_CullTransparentMesh: 1
+--- !u!114 &834051744616171221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327419761192305733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: -592.66077, w: -42.035995}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &6034879133978608301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2232528035312895807}
+  - component: {fileID: 4570195638769590067}
+  m_Layer: 0
+  m_Name: BackgroundMusic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2232528035312895807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6034879133978608301}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8477556252158011075}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4570195638769590067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6034879133978608301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8389f18d7f8fc49ebaf234743e4d9063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneMusics:
+  - sceneName: Bach Caves
+    eventPlaylist:
+    - Guid:
+        Data1: -636356519
+        Data2: 1105767310
+        Data3: -1269148492
+        Data4: -1583251280
+      Path: event:/Music/Bach Cave/BachAllemande
+    - Guid:
+        Data1: -1762238523
+        Data2: 1206863978
+        Data3: 396695948
+        Data4: 2029254342
+      Path: event:/Music/Bach Cave/BachChaconne1
+    - Guid:
+        Data1: 86247109
+        Data2: 1091014950
+        Data3: 1082561965
+        Data4: 537193704
+      Path: event:/Music/Bach Cave/BachChaconne2
+    - Guid:
+        Data1: -67852687
+        Data2: 1139797444
+        Data3: 1109217664
+        Data4: -1725006239
+      Path: event:/Music/Bach Cave/BachChaconne3
+    - Guid:
+        Data1: 1971723701
+        Data2: 1223474834
+        Data3: -527020889
+        Data4: -2030355421
+      Path: event:/Music/Bach Cave/BachPartita3Preludio
+    currentEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    eventPlaylistIndex: 0
+    currentPosition: 0
+    repeatPlaylist: 1
+    isPlaylistPaused: 1
+    isFirstSongPlayed: 0
+    isOneTimeMusicLoaded: 0
+  - sceneName: Boss Arena
+    eventPlaylist:
+    - Guid:
+        Data1: -646600571
+        Data2: 1238915644
+        Data3: -762541410
+        Data4: -365103093
+      Path: event:/Music/Bubble Area/ChopinNocturneOP27NO2
+    currentEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    eventPlaylistIndex: 0
+    currentPosition: 0
+    repeatPlaylist: 1
+    isPlaylistPaused: 1
+    isFirstSongPlayed: 0
+    isOneTimeMusicLoaded: 0
+  - sceneName: Castle
+    eventPlaylist:
+    - Guid:
+        Data1: 1161040814
+        Data2: 1104432066
+        Data3: 257203891
+        Data4: -1348070659
+      Path: event:/Music/Castle/BruchScottishFantasyIntro
+    - Guid:
+        Data1: -132448465
+        Data2: 1142407682
+        Data3: -295180109
+        Data4: -852721702
+      Path: event:/Music/Castle/ChopinNocturneOp9No1
+    - Guid:
+        Data1: 2065095388
+        Data2: 1118717132
+        Data3: -1195907435
+        Data4: 293320596
+      Path: event:/Music/Castle/ChopinNocturneOp27No1
+    currentEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    eventPlaylistIndex: 0
+    currentPosition: 0
+    repeatPlaylist: 1
+    isPlaylistPaused: 1
+    isFirstSongPlayed: 0
+    isOneTimeMusicLoaded: 0
+  - sceneName: Gravesite
+    eventPlaylist:
+    - Guid:
+        Data1: 2083802068
+        Data2: 1183248230
+        Data3: -641463882
+        Data4: 270499997
+      Path: event:/Music/Gravesite/ChopinFuneralMarch1
+    currentEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    eventPlaylistIndex: 0
+    currentPosition: 0
+    repeatPlaylist: 1
+    isPlaylistPaused: 1
+    isFirstSongPlayed: 0
+    isOneTimeMusicLoaded: 0
+  - sceneName: Meadows
+    eventPlaylist:
+    - Guid:
+        Data1: 760650427
+        Data2: 1092908292
+        Data3: 41027231
+        Data4: -872108671
+      Path: event:/Music/Meadows/ChopinFuneralMarchII
+    currentEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    eventPlaylistIndex: 0
+    currentPosition: 0
+    repeatPlaylist: 1
+    isPlaylistPaused: 1
+    isFirstSongPlayed: 0
+    isOneTimeMusicLoaded: 0
+  - sceneName: Swamp
+    eventPlaylist:
+    - Guid:
+        Data1: -904341703
+        Data2: 1337291336
+        Data3: -801741401
+        Data4: 247269321
+      Path: event:/Music/Bubble Area/ChopinNocturneOP9NO2
+    - Guid:
+        Data1: -646600571
+        Data2: 1238915644
+        Data3: -762541410
+        Data4: -365103093
+      Path: event:/Music/Bubble Area/ChopinNocturneOP27NO2
+    - Guid:
+        Data1: -1847965952
+        Data2: 1261514121
+        Data3: -2133776747
+        Data4: 808356216
+      Path: event:/Music/Bubble Area/ChopinNocturneOP32NO2
+    - Guid:
+        Data1: -204389778
+        Data2: 1129215670
+        Data3: 278856353
+        Data4: -475496562
+      Path: event:/Music/Bubble Area/ChopinSonata2MVT2
+    currentEvent:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    eventPlaylistIndex: 0
+    currentPosition: 0
+    repeatPlaylist: 1
+    isPlaylistPaused: 1
+    isFirstSongPlayed: 0
+    isOneTimeMusicLoaded: 0
+  currentScene:
+    m_Handle: 0
+  oneTimeMusicSceneNames:
+  - Gravesite
+  adaptiveInstrumentNames:
+  - volume_WindAndBrass
+  - volume_Harp
+  - volume_Strings
+  adaptiveInstrumentNamesIndex: 0
+  musicFadeInTime: 2
+  musicFadeOutTime: 2
+  songInfoText: {fileID: 834051744616171221}

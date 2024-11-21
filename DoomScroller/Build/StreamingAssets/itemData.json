@@ -1,0 +1,33 @@
+{
+    "items": [
+      {
+        "id": "item_001",
+        "itemName": "Charisma Gem",
+        "itemLore": "Enhances the bearer's charisma, increasing their ability to persuade and charm others.",
+        "spriteName": "Charisma Gem",
+        "unlocked": true
+      },
+      {
+        "id": "item_002",
+        "itemName": "Dexterity Gem",
+        "itemLore": "Boosts the bearer's dexterity, improving agility and reflexes.",
+        "spriteName": "Dexterity Gem",
+        "unlocked": false
+      },
+      {
+        "id": "item_003",
+        "itemName": "Intelligence Gem",
+        "itemLore": "Augments the bearer's intelligence, enhancing problem-solving and magical abilities.",
+        "spriteName": "Intelligence Gem",
+        "unlocked": false
+      },
+      {
+        "id": "item_004",
+        "itemName": "Strength Gem",
+        "itemLore": "Increases the bearer's physical strength, allowing them to perform feats of great power.",
+        "spriteName": "Strength Gem",
+        "unlocked": false
+      }
+    ]
+  }
+  

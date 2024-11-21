@@ -1,0 +1,2969 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8997671634946913357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase1/UnblockableWaveBlast
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase1/UnblockableWaveBlast
+  Guid:
+    Data1: -728058465
+    Data2: 1189055609
+    Data3: -51310705
+    Data4: 1491738232
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8886787133807849887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MeadowsRiver
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MeadowsRiver
+  Guid:
+    Data1: -1115561160
+    Data2: 1242881273
+    Data3: 662985887
+    Data4: 870175772
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 59280
+--- !u!114 &-8778468284242559816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase1/ScytheLightAttack
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase1/ScytheLightAttack
+  Guid:
+    Data1: -794133362
+    Data2: 1079650103
+    Data3: 1247803530
+    Data4: -1676038112
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8741444496651611286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638677428885762868
+  FileSizes:
+  - Name: Desktop
+    Value: 4510
+  Exists: 1
+--- !u!114 &-8461057513987979584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/HorseKickback
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/HorseKickback
+  Guid:
+    Data1: -1392885058
+    Data2: 1292901509
+    Data3: 1084987293
+    Data4: 2107707805
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8313638116759083949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Fall
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Fall
+  Guid:
+    Data1: 1525009384
+    Data2: 1093867629
+    Data3: -154189893
+    Data4: 2122353647
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-8012669186135443585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinFuneralMarch1/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-7769009427517417465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/HeavyRain/rainFadeInDuration
+  m_EditorClassIdentifier: 
+  Name: rainFadeInDuration
+  StudioPath: 
+  Min: 0
+  Max: 30
+  Default: 4
+  ID:
+    data1: 3640112166
+    data2: 2856707533
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7650558403140610512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bubble Area/ChopinNocturneOP32NO2
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bubble Area/ChopinNocturneOP32NO2
+  Guid:
+    Data1: -1847965952
+    Data2: 1261514121
+    Data3: -2133776747
+    Data4: 808356216
+  Banks:
+  - {fileID: 2888576984538281624}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5213201772759472943}
+  - {fileID: -3998682843348534269}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 347015
+--- !u!114 &-7460166656475901460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Dash
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Dash
+  Guid:
+    Data1: -1619749135
+    Data2: 1261317406
+    Data3: 54837667
+    Data4: 135695321
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7215195844526345584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Forest.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/Forest.bank
+  Name: Forest
+  StudioPath: bank:/Music & Ambience/Forest
+  lastModified: 638677428885464415
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
+--- !u!114 &-7157240726665093522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachChaconne1/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-6563069467131788330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOp27No1/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-6484403592862354545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/LockonShooting
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/LockonShooting
+  Guid:
+    Data1: -2064847302
+    Data2: 1298303922
+    Data3: 1773876126
+    Data4: -1654475418
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6429493456967188789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bach Cave/BachChaconne1
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bach Cave/BachChaconne1
+  Guid:
+    Data1: -1762238523
+    Data2: 1206863978
+    Data3: 396695948
+    Data4: 2029254342
+  Banks:
+  - {fileID: -3265095255304121748}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 145229246587805184}
+  - {fileID: -7157240726665093522}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 368147
+--- !u!114 &-6146153006936071857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Crouch_Jump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Crouch_Jump
+  Guid:
+    Data1: 763610462
+    Data2: 1089658162
+    Data3: -1888673652
+    Data4: -1930005531
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5958397302447480432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/GravesiteRainOutdoor
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/GravesiteRainOutdoor
+  Guid:
+    Data1: -135698723
+    Data2: 1278253474
+    Data3: 866378897
+    Data4: -2006361134
+  Banks:
+  - {fileID: 195598454895126880}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4243053049371851525}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 49300
+--- !u!114 &-5903869254964741883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinFuneralMarch1/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-5692583853672229634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Castle/BruchScottishFantasyIntro
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Castle/BruchScottishFantasyIntro
+  Guid:
+    Data1: 1161040814
+    Data2: 1104432066
+    Data3: 257203891
+    Data4: -1348070659
+  Banks:
+  - {fileID: -5022744540629388552}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 4730718283501458159}
+  - {fileID: 3505769260007420141}
+  - {fileID: 7726983689830132202}
+  - {fileID: -2684786628005903125}
+  - {fileID: 7951557452825463322}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 37133
+--- !u!114 &-5258866231449551088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bach Cave/BachPartita3Preludio
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bach Cave/BachPartita3Preludio
+  Guid:
+    Data1: 1971723701
+    Data2: 1223474834
+    Data3: -527020889
+    Data4: -2030355421
+  Banks:
+  - {fileID: -3265095255304121748}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -1166124764260560982}
+  - {fileID: 4869556224398495296}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 223566
+--- !u!114 &-5213201772759472943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOP32NO2/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-5022744540629388552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Castle.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/Castle.bank
+  Name: Castle
+  StudioPath: bank:/Music & Ambience/Castle
+  lastModified: 638677428885464415
+  FileSizes:
+  - Name: Desktop
+    Value: 8883168
+  Exists: 1
+--- !u!114 &-4944062230089397899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinSonata2MVT2/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-4596308437981452831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Combat/Unblockable_Warning
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Combat/Unblockable_Warning
+  Guid:
+    Data1: -1954768206
+    Data2: 1089867082
+    Data3: 1829153665
+    Data4: 427654463
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4271926213050786539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bubble Area/ChopinNocturneOP27NO2
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bubble Area/ChopinNocturneOP27NO2
+  Guid:
+    Data1: -646600571
+    Data2: 1238915644
+    Data3: -762541410
+    Data4: -365103093
+  Banks:
+  - {fileID: 2888576984538281624}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2754214800816626606}
+  - {fileID: -3787999294232257933}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 363998
+--- !u!114 &-4192613282046584611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/SFX.bank
+  Name: SFX
+  StudioPath: bank:/SFX
+  lastModified: 638677428886132946
+  FileSizes:
+  - Name: Desktop
+    Value: 2516800
+  Exists: 1
+--- !u!114 &-4153166092950592534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/WaveKnockback
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/WaveKnockback
+  Guid:
+    Data1: 988047488
+    Data2: 1248209150
+    Data3: 327573181
+    Data4: -767136395
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3998682843348534269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOP32NO2/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-3902719658969985802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Meadows/ChopinFuneralMarchII
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Meadows/ChopinFuneralMarchII
+  Guid:
+    Data1: 760650427
+    Data2: 1092908292
+    Data3: 41027231
+    Data4: -872108671
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2582011565215918043}
+  - {fileID: -986287771996957240}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 248566
+--- !u!114 &-3864537821009022328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase1/RifleBlast
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase1/RifleBlast
+  Guid:
+    Data1: -1607357630
+    Data2: 1222163842
+    Data3: 837323177
+    Data4: -1466143629
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3787999294232257933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOP27NO2/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-3265095255304121748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/BachCave.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/BachCave.bank
+  Name: BachCave
+  StudioPath: bank:/Music & Ambience/BachCave
+  lastModified: 638677428884364176
+  FileSizes:
+  - Name: Desktop
+    Value: 14313376
+  Exists: 1
+--- !u!114 &-3259654710648273352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MeadowsWaterfall
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MeadowsWaterfall
+  Guid:
+    Data1: -1551282145
+    Data2: 1234758541
+    Data3: 1096721067
+    Data4: 1653166371
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 59064
+--- !u!114 &-3194641421720744253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemies/Cricket/CricketAttack
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enemies/Cricket/CricketAttack
+  Guid:
+    Data1: -624250687
+    Data2: 1082618011
+    Data3: 577002399
+    Data4: 882105133
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2854850958677928227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MeadowsWind
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MeadowsWind
+  Guid:
+    Data1: -1173202491
+    Data2: 1278560995
+    Data3: 304753334
+    Data4: 1003702628
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 59008
+--- !u!114 &-2684786628005903125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BruchScottishFantasyIntro/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-2006606682059717892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemies/Cricket/CricketParry
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enemies/Cricket/CricketParry
+  Guid:
+    Data1: -871165458
+    Data2: 1249604649
+    Data3: -1369249643
+    Data4: -2023356424
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1927867171553537615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOp9No1/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1915310982772437406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bach Cave/BachAllemande
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bach Cave/BachAllemande
+  Guid:
+    Data1: -636356519
+    Data2: 1105767310
+    Data3: -1269148492
+    Data4: -1583251280
+  Banks:
+  - {fileID: -3265095255304121748}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 7304367430629168360}
+  - {fileID: 4747729357303886276}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 101766
+--- !u!114 &-1830964910982637064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/volume_Strings
+  m_EditorClassIdentifier: 
+  Name: volume_Strings
+  StudioPath: parameter:/volume_Strings
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 2350745000
+    data2: 2866699891
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1549620931102337493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bach Cave/BachChaconne2
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bach Cave/BachChaconne2
+  Guid:
+    Data1: 86247109
+    Data2: 1091014950
+    Data3: 1082561965
+    Data4: 537193704
+  Banks:
+  - {fileID: -3265095255304121748}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6671977537377118583}
+  - {fileID: 3913125773319111350}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 223700
+--- !u!114 &-1452344213077377005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/GravesiteRainIndoor/rainFadeInDuration
+  m_EditorClassIdentifier: 
+  Name: rainFadeInDuration
+  StudioPath: 
+  Min: 0
+  Max: 30
+  Default: 4
+  ID:
+    data1: 3640112166
+    data2: 2856707533
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1385545709203145489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/volume_Harp
+  m_EditorClassIdentifier: 
+  Name: volume_Harp
+  StudioPath: parameter:/volume_Harp
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 3041519152
+    data2: 335522357
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1172347219177966866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Combat/Sword_Swing
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Combat/Sword_Swing
+  Guid:
+    Data1: -796077528
+    Data2: 1124136766
+    Data3: -2105669455
+    Data4: 960582001
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1170142808059947116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/GrowingTree
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/GrowingTree
+  Guid:
+    Data1: -1221261354
+    Data2: 1259033327
+    Data3: -1472444281
+    Data4: -2053384351
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1166124764260560982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachPartita3Preludio/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-1160077355871602836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638677428885752866
+  FileSizes:
+  - Name: Desktop
+    Value: 2860
+  Exists: 1
+--- !u!114 &-1102318489841968453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: parameter:/musicFadeOut
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-986287771996957240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinFuneralMarchII/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-679712421889972154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Castle/ChopinNocturneOp9No1
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Castle/ChopinNocturneOp9No1
+  Guid:
+    Data1: -132448465
+    Data2: 1142407682
+    Data3: -295180109
+    Data4: -852721702
+  Banks:
+  - {fileID: -5022744540629388552}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 7042095421926419897}
+  - {fileID: -1927867171553537615}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 343266
+--- !u!114 &-622053004006632862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Footsteps
+  Guid:
+    Data1: 285368948
+    Data2: 1143258004
+    Data3: 708921502
+    Data4: 94810555
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &-492210915906600842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/GravesiteRainIndoor
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/GravesiteRainIndoor
+  Guid:
+    Data1: -676119736
+    Data2: 1183616631
+    Data3: 1150818993
+    Data4: 1958949185
+  Banks:
+  - {fileID: 195598454895126880}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -1452344213077377005}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 49404
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -8741444496651611286}
+  - {fileID: -3265095255304121748}
+  - {fileID: 2888576984538281624}
+  - {fileID: -5022744540629388552}
+  - {fileID: -7215195844526345584}
+  - {fileID: 195598454895126880}
+  - {fileID: 7219066900830144296}
+  - {fileID: -1160077355871602836}
+  - {fileID: 3672457796692087696}
+  - {fileID: -4192613282046584611}
+  EditorEvents:
+  - {fileID: -1915310982772437406}
+  - {fileID: 2851766120105242554}
+  - {fileID: -5258866231449551088}
+  - {fileID: -1549620931102337493}
+  - {fileID: -6429493456967188789}
+  - {fileID: -7650558403140610512}
+  - {fileID: 9111342115043753911}
+  - {fileID: 4960653745533969253}
+  - {fileID: -4271926213050786539}
+  - {fileID: -679712421889972154}
+  - {fileID: -5692583853672229634}
+  - {fileID: 8978156753643495610}
+  - {fileID: -492210915906600842}
+  - {fileID: 6151626891247312670}
+  - {fileID: -5958397302447480432}
+  - {fileID: 3662075081943413897}
+  - {fileID: -3259654710648273352}
+  - {fileID: -8886787133807849887}
+  - {fileID: 5635450349335119397}
+  - {fileID: 4638053530423510019}
+  - {fileID: 8477189413302022204}
+  - {fileID: -3902719658969985802}
+  - {fileID: -2854850958677928227}
+  - {fileID: 3133086224057729049}
+  - {fileID: 2297147864571007560}
+  - {fileID: 6352635592462555226}
+  - {fileID: 7276927580848596351}
+  - {fileID: -1172347219177966866}
+  - {fileID: 3156685838522950202}
+  - {fileID: 2436090336452483947}
+  - {fileID: 5677632566753762971}
+  - {fileID: -6484403592862354545}
+  - {fileID: 311139895941391892}
+  - {fileID: -3864537821009022328}
+  - {fileID: 4216237827585190084}
+  - {fileID: 2012254775916167524}
+  - {fileID: -6146153006936071857}
+  - {fileID: 2957849069195162582}
+  - {fileID: -622053004006632862}
+  - {fileID: 8700302668517273386}
+  - {fileID: 5370580685511227672}
+  - {fileID: 2563228670561178472}
+  - {fileID: 1986599317219375348}
+  - {fileID: -4153166092950592534}
+  - {fileID: -8778468284242559816}
+  - {fileID: 708990548752966013}
+  - {fileID: 5418626506935540681}
+  - {fileID: -8997671634946913357}
+  - {fileID: 8300698216883717593}
+  - {fileID: 5013876083066421974}
+  - {fileID: -4596308437981452831}
+  - {fileID: 1259277013330940746}
+  - {fileID: -8461057513987979584}
+  - {fileID: -3194641421720744253}
+  - {fileID: 5809062234015719348}
+  - {fileID: -1170142808059947116}
+  - {fileID: 7810010891536182439}
+  - {fileID: 5310496302639791670}
+  - {fileID: 632051343436301113}
+  - {fileID: -8313638116759083949}
+  - {fileID: -2006606682059717892}
+  - {fileID: -7460166656475901460}
+  EditorParameters:
+  - {fileID: 3260310514347771773}
+  - {fileID: -1102318489841968453}
+  - {fileID: 2111703810230965629}
+  - {fileID: -1385545709203145489}
+  - {fileID: -1830964910982637064}
+  MasterBanks:
+  - {fileID: -1160077355871602836}
+  StringsBanks:
+  - {fileID: -8741444496651611286}
+  cacheTime: 638677428886132946
+  cacheVersion: 131619
+--- !u!114 &145229246587805184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachChaconne1/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &195598454895126880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Gravesite.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/Gravesite.bank
+  Name: Gravesite
+  StudioPath: bank:/Music & Ambience/Gravesite
+  lastModified: 638677428885594445
+  FileSizes:
+  - Name: Desktop
+    Value: 2192512
+  Exists: 1
+--- !u!114 &311139895941391892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/HeavyRain
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/HeavyRain
+  Guid:
+    Data1: 1801195835
+    Data2: 1304244469
+    Data3: -1729498210
+    Data4: -2104223689
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -7769009427517417465}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 87632
+--- !u!114 &632051343436301113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemies/Cricket/CricketJump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enemies/Cricket/CricketJump
+  Guid:
+    Data1: -1217522456
+    Data2: 1157189331
+    Data3: 1031080869
+    Data4: -468867688
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &708990548752966013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase1/ChargeAndSweepAttack
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase1/ChargeAndSweepAttack
+  Guid:
+    Data1: 480373135
+    Data2: 1246953116
+    Data3: 1736194963
+    Data4: -146153778
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1259277013330940746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Running_UPDATED
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Running_UPDATED
+  Guid:
+    Data1: -340110149
+    Data2: 1321017335
+    Data3: -1400041818
+    Data4: 20050162
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1018
+--- !u!114 &1710541144678768205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOP9NO2/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &1910337206949252635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachChaconne3/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &1986599317219375348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Jump
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Jump
+  Guid:
+    Data1: -2124259202
+    Data2: 1172542059
+    Data3: 540607628
+    Data4: -1043470260
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2012254775916167524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/FootstepsStoneTEMP
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/FootstepsStoneTEMP
+  Guid:
+    Data1: 719401289
+    Data2: 1269480929
+    Data3: -76482664
+    Data4: -2064644082
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &2078012655135509765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinSonata2MVT2/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2111703810230965629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/volume_WindAndBrass
+  m_EditorClassIdentifier: 
+  Name: volume_WindAndBrass
+  StudioPath: parameter:/volume_WindAndBrass
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 629143009
+    data2: 3016938599
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2297147864571007560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemies/Cricket/CricketDeath
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enemies/Cricket/CricketDeath
+  Guid:
+    Data1: -2108746477
+    Data2: 1288884439
+    Data3: 1266789822
+    Data4: 348328381
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2436090336452483947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/Galloping
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/Galloping
+  Guid:
+    Data1: 1892039993
+    Data2: 1195674019
+    Data3: -1852866174
+    Data4: 919148787
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7533
+--- !u!114 &2563228670561178472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Glide
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Glide
+  Guid:
+    Data1: 1922809724
+    Data2: 1169827646
+    Data3: -1140115805
+    Data4: -628122460
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11740
+--- !u!114 &2582011565215918043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinFuneralMarchII/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2754214800816626606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOP27NO2/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2851766120105242554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bach Cave/BachChaconne3
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bach Cave/BachChaconne3
+  Guid:
+    Data1: -67852687
+    Data2: 1139797444
+    Data3: 1109217664
+    Data4: -1725006239
+  Banks:
+  - {fileID: -3265095255304121748}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1910337206949252635}
+  - {fileID: 4277951650879776597}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157400
+--- !u!114 &2888576984538281624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/BubbleArea.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/BubbleArea.bank
+  Name: BubbleArea
+  StudioPath: bank:/Music & Ambience/BubbleArea
+  lastModified: 638677428885184355
+  FileSizes:
+  - Name: Desktop
+    Value: 14080032
+  Exists: 1
+--- !u!114 &2957849069195162582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Combat/Guard_Hold
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Combat/Guard_Hold
+  Guid:
+    Data1: 333430126
+    Data2: 1105297165
+    Data3: -1011411574
+    Data4: 1112438485
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3133086224057729049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/FootstepsWoodTEMP
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/FootstepsWoodTEMP
+  Guid:
+    Data1: -2050329081
+    Data2: 1173474851
+    Data3: -83124854
+    Data4: -36108904
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &3156685838522950202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/FootstepsGrassTEMP
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/FootstepsGrassTEMP
+  Guid:
+    Data1: 1211299381
+    Data2: 1179530961
+    Data3: -1631811187
+    Data4: 517405165
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &3260310514347771773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: parameter:/musicFadeIn
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &3505769260007420141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BruchScottishFantasyIntro/volume_Harp
+  m_EditorClassIdentifier: 
+  Name: volume_Harp
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 3041519152
+    data2: 335522357
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &3662075081943413897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MainMenuRain
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MainMenuRain
+  Guid:
+    Data1: -1922822979
+    Data2: 1116675276
+    Data3: 2061021579
+    Data4: -60174751
+  Banks:
+  - {fileID: 7219066900830144296}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 7103151015069490671}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 238507
+--- !u!114 &3672457796692087696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Meadows.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/Meadows.bank
+  Name: Meadows
+  StudioPath: bank:/Music & Ambience/Meadows
+  lastModified: 638677428886072931
+  FileSizes:
+  - Name: Desktop
+    Value: 5458368
+  Exists: 1
+--- !u!114 &3913125773319111350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachChaconne2/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4107593201551855042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOP9NO2/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4216237827585190084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Combat/Sword_Hit
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Combat/Sword_Hit
+  Guid:
+    Data1: -834452156
+    Data2: 1238690707
+    Data3: 473989000
+    Data4: -1116335948
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4243053049371851525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/GravesiteRainOutdoor/rainFadeInDuration
+  m_EditorClassIdentifier: 
+  Name: rainFadeInDuration
+  StudioPath: 
+  Min: 0
+  Max: 30
+  Default: 4
+  ID:
+    data1: 3640112166
+    data2: 2856707533
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4277951650879776597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachChaconne3/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4638053530423510019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MeadowsGrass
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MeadowsGrass
+  Guid:
+    Data1: 1598767790
+    Data2: 1261780643
+    Data3: 1606950800
+    Data4: 833323678
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 68453
+--- !u!114 &4730718283501458159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BruchScottishFantasyIntro/volume_Strings
+  m_EditorClassIdentifier: 
+  Name: volume_Strings
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 2350745000
+    data2: 2866699891
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4747729357303886276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachAllemande/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4869556224398495296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachPartita3Preludio/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4960653745533969253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bubble Area/ChopinSonata2MVT2
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bubble Area/ChopinSonata2MVT2
+  Guid:
+    Data1: -204389778
+    Data2: 1129215670
+    Data3: 278856353
+    Data4: -475496562
+  Banks:
+  - {fileID: 2888576984538281624}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2078012655135509765}
+  - {fileID: -4944062230089397899}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 270000
+--- !u!114 &5013876083066421974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Respawn
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Respawn
+  Guid:
+    Data1: 2009367470
+    Data2: 1084137998
+    Data3: 1282469278
+    Data4: -1680346906
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5310496302639791670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Combat/Shield_Hit
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Combat/Shield_Hit
+  Guid:
+    Data1: 703403743
+    Data2: 1088683206
+    Data3: -771060596
+    Data4: 429319019
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5370580685511227672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/FloatingTree
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/FloatingTree
+  Guid:
+    Data1: -1673293447
+    Data2: 1319376166
+    Data3: 1591382718
+    Data4: -1551113183
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5418626506935540681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Combat/Sword_Parry
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Combat/Sword_Parry
+  Guid:
+    Data1: -27858024
+    Data2: 1159560944
+    Data3: 1612559793
+    Data4: -605222981
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &5635450349335119397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MeadowsBirds
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MeadowsBirds
+  Guid:
+    Data1: 1833043625
+    Data2: 1083666678
+    Data3: 1063632264
+    Data4: -347103345
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 25536
+--- !u!114 &5677632566753762971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Land
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Land
+  Guid:
+    Data1: -586731462
+    Data2: 1306549953
+    Data3: -580282961
+    Data4: 822566175
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5809062234015719348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase1/HorseStomp
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase1/HorseStomp
+  Guid:
+    Data1: 454767043
+    Data2: 1100113281
+    Data3: 409222285
+    Data4: -421221041
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6151626891247312670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Gravesite/ChopinFuneralMarch1
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Gravesite/ChopinFuneralMarch1
+  Guid:
+    Data1: 2083802068
+    Data2: 1183248230
+    Data3: -641463882
+    Data4: 270499997
+  Banks:
+  - {fileID: 195598454895126880}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -5903869254964741883}
+  - {fileID: -8012669186135443585}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 178533
+--- !u!114 &6352635592462555226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemies/Cricket/CricketHurt
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enemies/Cricket/CricketHurt
+  Guid:
+    Data1: -1577649132
+    Data2: 1315244058
+    Data3: 1217818255
+    Data4: 1902043783
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6671977537377118583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachChaconne2/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &7042095421926419897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOp9No1/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &7103151015069490671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/MainMenuRain/rainFadeInDuration
+  m_EditorClassIdentifier: 
+  Name: rainFadeInDuration
+  StudioPath: 
+  Min: 0
+  Max: 30
+  Default: 4
+  ID:
+    data1: 3640112166
+    data2: 2856707533
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7219066900830144296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/MainMenu.bank
+  m_EditorClassIdentifier: 
+  Path: Amusia_FMOD/FMOD_Builds/Desktop/MainMenu.bank
+  Name: MainMenu
+  StudioPath: bank:/Music & Ambience/MainMenu
+  lastModified: 638677428885742866
+  FileSizes:
+  - Name: Desktop
+    Value: 3319680
+  Exists: 1
+--- !u!114 &7276927580848596351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/Crouch
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/Crouch
+  Guid:
+    Data1: 1995883543
+    Data2: 1089770503
+    Data3: -1174537068
+    Data4: 1217543808
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7304367430629168360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BachAllemande/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &7726983689830132202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BruchScottishFantasyIntro/musicFadeIn
+  m_EditorClassIdentifier: 
+  Name: musicFadeIn
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 1
+  ID:
+    data1: 2516203928
+    data2: 3399535899
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &7810010891536182439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Smierc/Phase2/ThornBush
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Smierc/Phase2/ThornBush
+  Guid:
+    Data1: -2107632673
+    Data2: 1286622805
+    Data3: -2079642991
+    Data4: -1702482531
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7951557452825463322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/BruchScottishFantasyIntro/volume_WindAndBrass
+  m_EditorClassIdentifier: 
+  Name: volume_WindAndBrass
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 629143009
+    data2: 3016938599
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &8300698216883717593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemies/Cricket/CricketDeathInsta
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Enemies/Cricket/CricketDeathInsta
+  Guid:
+    Data1: -1001227616
+    Data2: 1333207822
+    Data3: -236741243
+    Data4: -1327372276
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8477189413302022204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambience/MeadowsSakuraLeaves
+  m_EditorClassIdentifier: 
+  Path: event:/Ambience/MeadowsSakuraLeaves
+  Guid:
+    Data1: 1743833016
+    Data2: 1088349174
+    Data3: 1110464676
+    Data4: -1586356348
+  Banks:
+  - {fileID: 3672457796692087696}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8700302668517273386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Movement/FootstepsWaterTEMP
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Player/Movement/FootstepsWaterTEMP
+  Guid:
+    Data1: 1831336821
+    Data2: 1244668811
+    Data3: 1163808698
+    Data4: -1262261160
+  Banks:
+  - {fileID: -4192613282046584611}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300
+--- !u!114 &8978156753643495610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Castle/ChopinNocturneOp27No1
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Castle/ChopinNocturneOp27No1
+  Guid:
+    Data1: 2065095388
+    Data2: 1118717132
+    Data3: -1195907435
+    Data4: 293320596
+  Banks:
+  - {fileID: -5022744540629388552}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 9096181781314797677}
+  - {fileID: -6563069467131788330}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 352766
+--- !u!114 &9096181781314797677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ChopinNocturneOp27No1/musicFadeOut
+  m_EditorClassIdentifier: 
+  Name: musicFadeOut
+  StudioPath: 
+  Min: 0
+  Max: 50
+  Default: 2
+  ID:
+    data1: 3939319726
+    data2: 367401773
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &9111342115043753911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Bubble Area/ChopinNocturneOP9NO2
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Bubble Area/ChopinNocturneOP9NO2
+  Guid:
+    Data1: -904341703
+    Data2: 1337291336
+    Data3: -801741401
+    Data4: 247269321
+  Banks:
+  - {fileID: 2888576984538281624}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1710541144678768205}
+  - {fileID: 4107593201551855042}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 293715

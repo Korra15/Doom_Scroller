@@ -1,0 +1,74 @@
+{
+  "bestiary": [
+    {
+      "id": "enemy_001",
+      "name": "Goblin",
+      "description": "A small, green-skinned creature fond of mischief and mayhem.",
+      "spriteName": "Bestiary",
+      "unlocked": true
+    },
+    {
+      "id": "enemy_002",
+      "name": "Cricket",
+      "description": "Cricket temp description.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_003",
+      "name": "Organ Boar",
+      "description": "Organ Boar temp description.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_004",
+      "name": "Skeleton",
+      "description": "Animated bones with no soul, commonly found guarding ancient tombs.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_005",
+      "name": "Wraith",
+      "description": "A spectral figure that drains the life of the living, seen mostly at night.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_006",
+      "name": "Ogre",
+      "description": "A large and dumb creature, known for its brute strength and bad temper.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_007",
+      "name": "Witch",
+      "description": "A cunning spellcaster dwelling in swamps and desolate places, often accompanied by familiars.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_008",
+      "name": "Vampire",
+      "description": "A nocturnal immortal who feeds on the blood of the living, possessing supernatural powers.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_009",
+      "name": "Zombie",
+      "description": "A reanimated corpse that feeds on flesh, moves slowly and relentlessly.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    },
+    {
+      "id": "enemy_010",
+      "name": "Griffin",
+      "description": "A mythical beast with the body of a lion and the wings and head of an eagle, known to guard treasure.",
+      "spriteName": "Bestiary",
+      "unlocked": false
+    }
+  ]
+}

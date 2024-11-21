@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{da653628-0649-4725-917f-ca97f14e7955}">
+		<property name="name">
+			<value>Burning Village</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ac3344e9-8a89-4194-bf60-8331a98681ff}</destination>
+		</relationship>
+	</object>
+</objects>

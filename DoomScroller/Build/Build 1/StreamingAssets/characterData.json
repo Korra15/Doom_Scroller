@@ -1,0 +1,75 @@
+{
+    "characters": [
+      {
+        "id": "character_001",
+        "characterName": "Alaric the Brave",
+        "characterLore": "A valiant knight known for his unyielding courage in the face of danger.",
+        "spriteName": "Characters",
+        "unlocked": true
+      },
+      {
+        "id": "character_002",
+        "characterName": "Mira the Wise",
+        "characterLore": "A sage whose wisdom is sought after by all who know of her.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_003",
+        "characterName": "Thorn the Shadow",
+        "characterLore": "An elusive assassin that strikes from where least expected.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_004",
+        "characterName": "Eldric the Seer",
+        "characterLore": "A mysterious seer who speaks in riddles of future events.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_005",
+        "characterName": "Fiona the Bold",
+        "characterLore": "Her daring actions have saved many from despair.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_006",
+        "characterName": "Gavin the Stout",
+        "characterLore": "A hardy warrior, steadfast and strong, facing challenges head-on.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_007",
+        "characterName": "Lila the Swift",
+        "characterLore": "Swift as the wind, her movements are like a dance, evading her foes with grace.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_008",
+        "characterName": "Derek the Crafty",
+        "characterLore": "Known for his clever contraptions and tricky gadgets.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_009",
+        "characterName": "Nora the Kind",
+        "characterLore": "Her kindness heals all wounds, mending both body and soul.",
+        "spriteName": "Characters",
+        "unlocked": false
+      },
+      {
+        "id": "character_010",
+        "characterName": "Soren the Lost",
+        "characterLore": "A wanderer with no memory of his past, seeking answers that seem just out of reach.",
+        "spriteName": "Characters",
+        "unlocked": false
+      }
+    ]
+  }
+  
